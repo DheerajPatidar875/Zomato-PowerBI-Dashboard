@@ -47,7 +47,27 @@ The project uses 5 datasets (CSV files) for data modeling and analysis.
 
 ## 📷 Dashboard Preview
 
-(Screenshots will be added here in the next step.)
+### Dashboard - Page 1
+
+![Page 1](Screenshots/Page1.png)
+
+---
+
+### Dashboard - Page 2
+
+![Page 2](Screenshots/Page2.png)
+
+---
+
+### Dashboard - Page 3
+
+![Page 3](Screenshots/Page3.png)
+
+---
+
+### Dashboard - Page 4
+
+![Page 4](Screenshots/Page4.png)
 
 ---
 
