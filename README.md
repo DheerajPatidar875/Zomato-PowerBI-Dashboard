@@ -109,7 +109,7 @@ The project uses 5 datasets (CSV files) for data modeling and analysis.
 
 You can watch the complete dashboard walkthrough from the **Video** folder.
 
-📹 **Dashboard Video:** `Video/DashboardDemo.mp4`
+📹 **Dashboard Video:** `https://github.com/DheerajPatidar875/Zomato-PowerBI-Dashboard/raw/refs/heads/main/Video/Sequence%2003_1%20(1).mp4`
 
 ## 📈 Key KPIs
 
