@@ -56,4 +56,4 @@ The project uses 5 datasets (CSV files) for data modeling and analysis.
 **Dheeraj Patidar**
 
 - GitHub: https://github.com/DheerajPatidar875
-- LinkedIn: (Add your LinkedIn profile link here)
+- LinkedIn:https://www.linkedin.com/in/dheeraj-patidar-26a2213b8/
