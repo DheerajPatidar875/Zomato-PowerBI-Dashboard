@@ -1,10 +1,35 @@
 # 🍽️ Zomato Power BI Dashboard
-
+  An interactive Business Intelligence Dashboard built using Power BI to analyze restaurant performance, customer behavior, ratings, cuisines, delivery trends, and business insights using Zomato data.
+  
 ## 📌 Project Overview
 
-This project is an interactive Power BI Dashboard developed using Zomato restaurant data. The dashboard helps analyze restaurant performance, customer ratings, cuisines, online delivery, table booking, and other business insights.
+This Power BI dashboard was developed to transform raw Zomato data into meaningful business insights.
 
+The dashboard helps restaurant owners and business managers understand:
+
+- Restaurant performance
+- Customer ratings
+- Popular cuisines
+- Online delivery trends
+- Cost analysis
+- City-wise restaurant distribution
+
+The project uses interactive visuals, slicers, and DAX measures to provide real-time business analysis.
 ---
+
+## 🎯 Business Problem
+
+Restaurant businesses collect a large amount of customer and operational data.
+
+Without visualization, it becomes difficult to identify:
+
+- Which cities perform better
+- Which cuisines are most popular
+- Which restaurants have higher ratings
+- How online delivery affects business
+- Customer preferences
+
+This dashboard solves these problems by providing interactive visual reports.
 
 ## 🛠️ Tools Used
 
@@ -15,16 +40,28 @@ This project is an interactive Power BI Dashboard developed using Zomato restaur
 
 ---
 
-## 📊 Dashboard Features
+## 📂 Dataset Information
 
-- Executive Summary
-- Restaurant Analysis
-- Customer Rating Analysis
-- Cuisine Analysis
-- City-wise Analysis
-- Online Delivery Analysis
-- Interactive Slicers & Filters
+The dashboard uses five datasets.
 
+- Customers
+- Restaurants
+- Orders
+- Delivery
+- Menu
+
+These datasets were cleaned, transformed, and connected using Power Query and Power BI Data Modeling.
+
+## ✨ Dashboard Features
+
+- Interactive Dashboard
+- Dynamic Slicers
+- Drill-through Navigation
+- Cross Filtering
+- KPI Cards
+- Custom Theme
+- Page Navigation
+- Data Modeling
 ---
 
 ## 📂 Dataset
@@ -32,6 +69,30 @@ This project is an interactive Power BI Dashboard developed using Zomato restaur
 The project uses 5 datasets (CSV files) for data modeling and analysis.
 
 ---
+
+## 📷 Dashboard Preview
+
+### 🏠 Home Page
+
+<img src="Screenshots/Page1.png" width="100%">
+
+---
+
+### 📊 Executive Dashboard
+
+<img src="Screenshots/Page2.png" width="100%">
+
+---
+
+### 📈 Restaurant Analysis
+
+<img src="Screenshots/Page3.png" width="100%">
+
+---
+
+### 📍 Customer Insights
+
+<img src="Screenshots/Page4.png" width="100%">
 
 ## 📈 Key KPIs
 
@@ -44,36 +105,20 @@ The project uses 5 datasets (CSV files) for data modeling and analysis.
 - Cost Analysis
 
 ---
+## 💡 Key Insights
 
-## 📷 Dashboard Preview
-
-### Dashboard - Page 1
-
-![Page 1](Screenshots/Page1.png)
-
----
-
-### Dashboard - Page 2
-
-![Page 2](Screenshots/Page2.png)
-
----
-
-### Dashboard - Page 3
-
-![Page 3](Screenshots/Page3.png)
-
----
-
-### Dashboard - Page 4
-
-![Page 4](Screenshots/Page4.png)
+- Identified the highest-rated restaurants.
+- Compared restaurant performance across cities.
+- Analyzed customer rating patterns.
+- Measured online delivery adoption.
+- Evaluated cuisine popularity.
+- Identified cost distribution across restaurants.
 
 ---
 
 ## 👨‍💻 Author
 
 **Dheeraj Patidar**
-
+- Email: patidardheeraj875@gmail.com
 - GitHub: https://github.com/DheerajPatidar875
 - LinkedIn:https://www.linkedin.com/in/dheeraj-patidar-26a2213b8/
