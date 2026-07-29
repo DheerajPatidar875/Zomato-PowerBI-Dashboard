@@ -66,6 +66,17 @@ These datasets were cleaned, transformed, and connected using Power Query and Po
 
 ## 📂 Dataset
 
+## 🛠 Skills Demonstrated
+
+- Data Cleaning
+- Data Modeling
+- DAX Measures
+- Power Query
+- Interactive Dashboard Design
+- Business Intelligence
+- Data Visualization
+
+---
 The project uses 5 datasets (CSV files) for data modeling and analysis.
 
 ---
@@ -94,6 +105,12 @@ The project uses 5 datasets (CSV files) for data modeling and analysis.
 
 <img src="Screenshots/Page4.png" width="100%">
 
+## 🎥 Dashboard Demo
+
+You can watch the complete dashboard walkthrough from the **Video** folder.
+
+📹 **Dashboard Video:** `Video/DashboardDemo.mp4`
+
 ## 📈 Key KPIs
 
 - Total Restaurants
@@ -119,6 +136,12 @@ The project uses 5 datasets (CSV files) for data modeling and analysis.
 ## 👨‍💻 Author
 
 **Dheeraj Patidar**
-- Email: patidardheeraj875@gmail.com
-- GitHub: https://github.com/DheerajPatidar875
-- LinkedIn:https://www.linkedin.com/in/dheeraj-patidar-26a2213b8/
+
+**Indore, Madhya Pradesh**
+
+- Email:
+-  patidardheeraj875@gmail.com
+- GitHub:
+-  https://github.com/DheerajPatidar875
+- LinkedIn:
+- https://www.linkedin.com/in/dheeraj-patidar-26a2213b8/
